@@ -16,7 +16,7 @@ fetch("games.json")
                 <a href="${game.link}">
                     <img src="${game.image}" alt="${game.title}">
                 </a>
-                <h1>${game.title}</h1>
+                <p>${game.title}</p>
                 <article>${game.article}</article>
             `;
 

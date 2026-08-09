@@ -4,20 +4,20 @@
         "title": "Bilby",
         "image": "assets/bilby-icon.png",
         "link": "game/bilby.html",
-        "article":"a WIP adventure puzzle RPG!"
+        "article":""
     },
     {
         "id": 2,
         "title": "CAT Z Studio",
         "image": "assets/1.PNG",
         "link": "game/catzstudio.html",
-        "article":"CAT Z Studio is a creative music-making game where you mix sounds using a cast of musical cats. Choose from different music styles, drag and drop sounds onto the cats, and experiment with your mix to create your own songs."
+        "article":""
     },
     {
         "id": 3,
         "title": "CAT Z Studio Beyond Time",
         "image": "assets/catzstudiobt-icon.png",
         "link": "game/catzstudiobt.html",
-        "article":"The newest CAT Z Studio remake with a twist!"
+        "article":""
     }
 ]

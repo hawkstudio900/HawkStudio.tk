@@ -102,11 +102,11 @@ footer {
     display: grid;
     grid-template-columns: repeat(3, 300px);
     justify-content: center;
-    gap: 20px;
+    gap: 12px;
 }
 
 .games p {
-    color: white !important;
+    color: lightgray !important;
 }
 
 
@@ -170,6 +170,8 @@ nav a:hover {
     object-fit: contain;
 }
 
-.game p {
+.game article {
     color: lightgray;
+    font-family: arial;
+    font-size: smaller;
 }

@@ -16,7 +16,8 @@ fetch("games.json")
                 <a href="${game.link}">
                     <img src="${game.image}" alt="${game.title}">
                 </a>
-                <p>${game.title}</p>
+                <h1>${game.title}</h1>
+                <article>${game.article}</article>
             `;
 
             container.appendChild(tile);

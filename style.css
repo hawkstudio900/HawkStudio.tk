@@ -185,3 +185,10 @@ nav a:hover {
 .game article {
     margin-top: 10px;
 }
+
+.games {
+    display: grid;
+    grid-template-columns: repeat(2, 200px);
+    justify-content: center;
+    gap: 30px;
+}

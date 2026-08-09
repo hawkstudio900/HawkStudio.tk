@@ -190,7 +190,7 @@ nav a:hover {
     display: grid;
     grid-template-columns: repeat(3, 200px);
     justify-content: center;
-    gap: 150px;
+    gap: 90px;
 }
 
 .game {
@@ -203,4 +203,13 @@ nav a:hover {
 
 .game article {
     margin: 0;
+}
+
+.game img{
+    color: white;
+    transition: opacity 0.2s;
+}
+
+.game img:hover{
+    opacity: 0.5;
 }

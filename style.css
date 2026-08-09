@@ -175,3 +175,13 @@ nav a:hover {
     font-family: arial;
     font-size: smaller;
 }
+.game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.game article {
+    margin-top: 10px;
+}

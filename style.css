@@ -190,5 +190,17 @@ nav a:hover {
     display: grid;
     grid-template-columns: repeat(3, 200px);
     justify-content: center;
-    gap: 15px;
+    gap: 50px;
+}
+
+.game {
+    text-align: center;
+}
+
+.game h1 {
+    margin: 10px 0;
+}
+
+.game article {
+    margin: 0;
 }

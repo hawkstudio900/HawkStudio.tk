@@ -100,7 +100,7 @@ footer {
 
 .games {
     display: grid;
-    grid-template-columns: repeat(1, 300px);
+    grid-template-columns: repeat(3, 300px);
     justify-content: center;
     gap: 20px;
 }
@@ -165,7 +165,11 @@ nav a:hover {
 }
 
 .game img {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     object-fit: contain;
+}
+
+.game p {
+    color: lightgray;
 }

@@ -1,8 +1,20 @@
 [
     {
         "id": 1,
-        "title": "Bilby - a space travel puzzle RPG game (WIP)",
+        "title": "Bilby",
         "image": "assets/bilby-icon.png",
         "link": "articles/bilby.html"
+    }
+    {
+        "id": 2,
+        "title": "CAT Z Studio",
+        "image": "assets/catzstudio-icon.png",
+        "link": "articles/catzstudio.html"
+    }
+    {
+        "id": 3,
+        "title": "CAT Z Studio Beyond Time",
+        "image": "assets/catzstudiobt-icon.png",
+        "link": "articles/catzstudiobt.html"
     }
 ]

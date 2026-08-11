@@ -219,12 +219,10 @@ nav a:hover {
     font-size: 15px;
     color: lightgray;
 }
-.catzstudio iframe{
-    
+.catzstudio iframe {
     width: 95%;
-    aspect-ratio: 16 / 9;
+    height: 600px;
     display: block;
     margin: 20px auto;
     border: none;
-
 }

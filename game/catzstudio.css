@@ -216,8 +216,9 @@ nav a:hover {
 
 .catzstudio p{
     text-align: left;
-    font-size: 32px;
+    font-size: 25px;
     color: lightgray;
+    font-family: "Courier New", monospace;
 }
 .catzstudio iframe {
     width: 95%;

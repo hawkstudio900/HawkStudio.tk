@@ -228,9 +228,8 @@ nav a:hover {
     border: none;
 }
 
-.catzstudio article{
-    
-    text-align: center;
+.catzstudio-article{
+     text-align: center;
     font-size: 10px;
     color: lightgray;
     font-family: "Courier New", monospace;

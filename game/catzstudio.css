@@ -215,7 +215,7 @@ nav a:hover {
 }
 
 .catzstudio p{
-    text-align: left;
+    text-align: center;
     font-size: 25px;
     color: white;
     font-family: ui-rounded, "Trebuchet MS", Arial, sans-serif;
@@ -231,7 +231,7 @@ nav a:hover {
 
 .catzstudio-article{
      text-align: center;
-    font-size: 10px;
+    font-size: 18px;
     color: lightgray;
     font-family: "Arial", monospace;
 }

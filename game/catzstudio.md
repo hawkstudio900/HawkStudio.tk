@@ -1,6 +1,12 @@
-CAT Z Studio
+---
+layout: article
+title: "CAT Z Studio"
+permalink: /articles/catzstudio.html
+---
 
-What is CAT Z Studio?
+# CAT Z Studio
+
+## What is CAT Z Studio?
 
 CAT Z Studio is a music-making game where you become the producer of your own tracks. Choose between 10 different music styles and build a mix by combining different sounds with the CAT Z characters.
 
@@ -8,22 +14,22 @@ Each cat represents a different sound, such as a beat, melody, vocal effect, or 
 
 The game is designed around experimentation, so there is no single "correct" mix. Try different combinations, remove sounds, adjust individual tracks, and see what you can create.
 
-Music Styles
+## Music Styles
 
 CAT Z Studio includes 10 different styles:
 
-* Trap
-* Ninjaz
-* DNB
-* House
-* Dubstep
-* Lo-Fi
-* Techno
-* Experimental
-* Dark DNB
-* Chaos
+- Trap
+- Ninjaz
+- DNB
+- House
+- Dubstep
+- Lo-Fi
+- Techno
+- Experimental
+- Dark DNB
+- Chaos
 
-How to Play
+## How to Play
 
 1. Choose a music style.
 2. Select a sound tile.
@@ -32,33 +38,38 @@ How to Play
 5. Add more cats to build your mix.
 6. Experiment with different combinations until you like the result.
 
-Managing Sounds
+## Managing Sounds
 
 Clicking a cat removes its sound from the mix.
 
-You can also hold a cat for about one second to activate Solo Mode. This lets you listen to that cat on its own. Press the cat again to disable Solo Mode.
+You can also hold a cat for about one second to activate **Solo Mode**. This lets you listen to that cat on its own. Press the cat again to disable Solo Mode.
 
-Using the Equaliser
+## Using the Equaliser
 
 CAT Z Studio also includes controls for changing individual sounds.
 
-Select the equaliser icon and choose a cat. You can then adjust settings such as volume, pitch, pan, and other sound controls.
+Select the equaliser icon and choose a cat. You can then adjust settings such as:
+
+- Volume
+- Pitch
+- Pan
+- Other sound controls
 
 Use these controls to fine-tune your mix and give individual sounds their own place in the song.
 
-Saving Your Mix
+## Saving Your Mix
 
-When you're happy with your creation, use the Save button and choose a save slot. This allows you to keep your mix and return to it later.
+When you're happy with your creation, use the **Save** button and choose a save slot. This allows you to keep your mix and return to it later.
 
 You can create multiple mixes and experiment with completely different combinations.
 
-Other Controls
+## Other Controls
 
-The Tutorial button activates a tutorial that explains the main mechanics of the game.
+The **Tutorial** button activates a tutorial that explains the main mechanics of the game.
 
-The X button removes all sounds from the current mix, allowing you to start again from scratch.
+The **X** button removes all sounds from the current mix, allowing you to start again from scratch.
 
-Tips
+## Tips
 
 Don't worry about making a "perfect" song. Try unusual combinations and experiment with different genres.
 

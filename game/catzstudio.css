@@ -217,7 +217,7 @@ nav a:hover {
 .catzstudio p{
     text-align: left;
     font-size: 25px;
-    color: lightgray;
+    color: white;
     font-family: "Courier New", monospace;
 }
 .catzstudio iframe {
@@ -226,4 +226,12 @@ nav a:hover {
     display: block;
     margin: 20px auto;
     border: none;
+}
+
+.catzstudio article{
+    
+    text-align: center;
+    font-size: 10px;
+    color: lightgray;
+    font-family: "Courier New", monospace;
 }

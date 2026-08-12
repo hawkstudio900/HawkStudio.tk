@@ -218,7 +218,7 @@ nav a:hover {
     text-align: left;
     font-size: 25px;
     color: white;
-    font-family: "Courier New", monospace;
+    font-family: "Arial Rounded MT Bold", monospace;
 }
 .catzstudio iframe {
     width: 95%;
@@ -230,7 +230,7 @@ nav a:hover {
 
 .catzstudio-article{
      text-align: center;
-    font-size: 10px;
+    font-size: 20px;
     color: lightgray;
-    font-family: "Courier New", monospace;
+    font-family: "Arial", monospace;
 }

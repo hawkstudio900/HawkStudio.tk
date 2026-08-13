@@ -235,3 +235,17 @@ nav a:hover {
     color: lightgray;
     font-family: "Arial", monospace;
 }
+
+.head{
+     text-align: center;
+    font-size: 22px;
+    color: white;
+    font-family: "Arial", monospace;
+}
+
+.about{
+     text-align: center;
+    font-size: 14px;
+    color: lightgray;
+    font-family: "Arial", monospace;
+}

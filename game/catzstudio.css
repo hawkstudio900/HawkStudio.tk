@@ -264,8 +264,8 @@ nav a:hover {
 }
 
 .catzstudio-releases {
-    width: 40px;
-    height: 40px;
+    width: 32px;
+    height: 32px;
     filter: invert(1);
     color: white;
     transition: opacity 0.2s;
@@ -274,4 +274,11 @@ nav a:hover {
 
 .catzstudio-releases:hover {
    opacity: 0.5;
+}
+
+.catzstudio-releases img {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    width: 100%
 }

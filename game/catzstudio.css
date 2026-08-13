@@ -262,3 +262,16 @@ nav a:hover {
     width: 100%;
     height: auto;
 }
+
+.catzstudio-releases {
+    width: 40px;
+    height: 40px;
+    filter: invert(1);
+    color: white;
+    transition: opacity 0.2s;
+    
+}
+
+.catzstudio-releases:hover {
+   opacity: 0.5;
+}

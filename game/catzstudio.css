@@ -237,10 +237,10 @@ nav a:hover {
 }
 
 .head{
-     text-align: left;
+     text-align: center;
     font-size: 25px;
     color: white;
-    font-family: "Arial", monospace;
+    font-family: ui-rounded, "Trebuchet MS", Arial, sans-serif;
 }
 
 .about{
@@ -248,4 +248,17 @@ nav a:hover {
     font-size: 20px;
     color: lightgray;
     font-family: "Arial", monospace;
+}
+
+.catz-img {
+    display: grid;
+    grid-template-columns: repeat(3, 320px);
+    justify-content: center;
+    gap: 30px;
+}
+
+.catz-img img {
+    width: 320px;
+    height: 180px;
+    object-fit: contain;
 }

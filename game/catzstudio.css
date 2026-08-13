@@ -252,13 +252,16 @@ nav a:hover {
 
 .catz-img {
     display: grid;
-    grid-template-columns: 640px 640px;
+    grid-template-columns: repeat(2, 640px);
     justify-content: center;
-    column-gap: 10px;
+    gap: 10px;
 }
 
 .catz-img img {
+    display: block;
     width: 640px;
     height: 360px;
+    margin: 0;
+    padding: 0;
     object-fit: contain;
 }

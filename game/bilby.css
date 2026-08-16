@@ -10,7 +10,7 @@ body {
 }
 
 .page {
-    width: 80%;
+    width: 100%;
     min-height: 100vh;
     margin: auto;
     background-color: #000;

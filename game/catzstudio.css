@@ -271,12 +271,27 @@ nav a:hover {
 }
 
 .catzstudio-releases img {
-    width: 32px;
-    height: 32px;
+    display: block;
+    height: 55px;
+    width: auto;
     object-fit: contain;
+    margin: 0;
+    padding: 0;
     transition: opacity 0.2s;
 }
 
 .catzstudio-releases img:hover {
     opacity: 0.5;
+}
+
+.catzstudio-releases .NG {
+    height: 65px;
+}
+
+.catzstudio-releases .PG {
+    height: 56px;
+}
+
+.catzstudio-releases .AG {
+    height: 100px;
 }

@@ -1,0 +1,297 @@
+html,
+body {
+    margin: 0;
+}
+
+body {
+    background-color:white;
+    font-family: Arial;
+    background-color: #000;
+}
+
+.page {
+    width: 80%;
+    min-height: 100vh;
+    margin: auto;
+    background-color: #000;
+
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    border-bottom: 1px solid white;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo img {
+    width: 50px;
+    height: 50px;
+}
+
+.logo p {
+    color: white;
+    font-size: 20px;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    gap: 25px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+main {
+    flex: 1;
+    padding: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 40px;
+    border-top: 1px solid white;
+}
+
+.footer-text {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: white;
+    font-size: 14px;
+}
+
+.footer-text nav {
+    display: flex;
+    gap: 15px;
+}
+
+.footer-text a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.icons {
+    display: flex;
+    gap: 10px;
+}
+
+.icons img {
+    width: 25px;
+    height: 25px;
+    filter: invert(1);
+}
+
+.games {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    justify-content: center;
+    gap: 12px;
+}
+
+.games p {
+    color: lightgray !important;
+}
+
+
+nav a {
+    color: white;
+    transition: opacity 0.2s;
+}
+
+nav a:hover {
+    opacity: 0.5;
+}
+
+.discord{
+    color: white;
+    transition: opacity 0.2s;
+}
+
+.discord:hover{
+    opacity: 0.5;
+}
+
+.gamejolt{
+    color: white;
+    transition: opacity 0.2s;
+}
+
+.gamejolt:hover{
+    opacity: 0.5;
+}
+
+.itchio{
+    color: white;
+    transition: opacity 0.2s;
+}
+
+.itchio:hover{
+    opacity: 0.5;
+}
+
+.youtube{
+    color: white;
+    transition: opacity 0.2s;
+}
+
+.youtube:hover{
+    opacity: 0.5;
+}
+
+.icon{
+    color: white;
+    transition: opacity 0.2s;
+}
+
+.icon:hover{
+    opacity: 0.5;
+}
+
+.game img {
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+}
+
+.game article {
+    color: lightgray;
+    font-family: arial;
+    font-size: smaller;
+}
+.game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.game article {
+    margin-top: 1px;
+}
+
+.games {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    justify-content: center;
+    gap: 90px;
+}
+
+.game {
+    text-align: center;
+}
+
+.game h1 {
+    margin: 10px 0;
+}
+
+.game article {
+    margin: 0;
+}
+
+.game img{
+    color: white;
+    transition: opacity 0.2s;
+}
+
+.game img:hover{
+    opacity: 0.5;
+}
+
+.catzstudio p{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family: ui-rounded, "Trebuchet MS", Arial, sans-serif;
+    font-weight: bold;
+}
+.catzstudio iframe {
+    width: 95%;
+    height: 600px;
+    display: block;
+    margin: 20px auto;
+    border: none;
+}
+
+.catzstudio-article{
+     text-align: left;
+    font-size: 18px;
+    color: lightgray;
+    font-family: "Arial", monospace;
+}
+
+.head{
+     text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family: ui-rounded, "Trebuchet MS", Arial, sans-serif;
+}
+
+.about{
+     text-align: center;
+    font-size: 20px;
+    color: lightgray;
+    font-family: "Arial", monospace;
+}
+
+.catz-img {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    width: 100%;
+}
+
+.catz-img img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.catzstudio-releases {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.catzstudio-releases img {
+    display: block;
+    height: 55px;
+    width: auto;
+    object-fit: contain;
+    margin: 0;
+    padding: 0;
+    transition: opacity 0.2s;
+}
+
+.catzstudio-releases img:hover {
+    opacity: 0.5;
+}
+
+.catzstudio-releases .NG {
+    height: 65px;
+}
+
+.catzstudio-releases .PG {
+    height: 56px;
+}
+
+.catzstudio-releases .AG {
+    height: 15px;
+}

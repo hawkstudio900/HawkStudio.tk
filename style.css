@@ -100,9 +100,16 @@ footer {
 
 .games {
     display: grid;
-    grid-template-columns: repeat(3, 300px);
-    justify-content: center;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr 1fr;
     gap: 12px;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.games .game:first-child {
+    grid-row: 1 / 3;
 }
 
 .games p {
